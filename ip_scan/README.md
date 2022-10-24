@@ -13,7 +13,7 @@ IP Scanner est un projet open source. N'hésitez pas à forker et à contribuer 
 
 ## Auteur
 
-Votre codeur préféré : Mounik
+Mounik
 
 ## Licensing
 
