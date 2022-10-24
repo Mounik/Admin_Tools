@@ -14,7 +14,7 @@ Forkez, modifiez et Enjoy !
 
 ## Authors
 
-Votre Admin Préféré : Mounik
+Mounik
 
 ## License
 
